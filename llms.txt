@@ -1,0 +1,50 @@
+# The U Basketball Prep Academy
+
+> Elite basketball prep academy in Glendale & Torrance, CA pairing professional basketball skills training with flexible online academics for middle and high school student-athletes. Backed by 30+ years developing NBA All-Stars, lottery picks, and top-tier youth prospects.
+
+The U Basketball Prep Academy (also known as THE U PREP) is a full-service academic prep school and elite athletic academy — not a clinic or camp. Student-athletes train daily in "The Dojo" (the academy's training facility) under a professional development staff while completing accredited academics through a flexible online model. Admission is application-based; families begin with a questionnaire and a facility walkthrough.
+
+## Key Facts
+
+- Official name: The U Basketball Prep Academy (THE U PREP)
+- Locations: The Dojo — 1219 Los Angeles St., Glendale, CA 91204 · Jump Beyond Sports — 1780 Oak St., Torrance, CA 90501
+- Category: Private educational institution / basketball academy
+- Audience: Middle school and high school student-athletes (homeschool or accredited online academic programs)
+- Founder: Olin Simplis ("Coach O") — 30+ years developing NBA All-Stars, lottery picks, and top-tier youth prospects
+- Training facility: The Dojo
+- Contact: theuacademyonline@gmail.com · +1-310-617-3254
+- Social: Instagram @theubasketballprepacademy · X @TheUBaballPrep · LinkedIn /company/the-u-basketball-prep-academy
+- Enrollment: application-based for the 2026–2027 school year and upcoming semesters; 2:1 player-to-coach ratio
+
+## Staff
+
+- Olin Simplis ("Coach O") — Founder
+- Adrian Smith — Director of the Prep Academy
+- Harrison Cohen — Director of Player Development
+- Kahlil Simplis — Player Development Coach
+- Lorenzo Davis — Player Development Coach
+- JBAR — Player Development Coach
+- MAL — Player Development Coach
+- Ells — Player Development
+- Ahmad — Player Development
+- ABE Perez — Director of Photography / Video
+- Rishea Kinard — Executive Assistant
+
+## Canonical URLs
+
+- Homepage (entity home): https://www.theubasketballprepacademy.com/
+- Sitemap: https://www.theubasketballprepacademy.com/sitemap.xml
+- Public data hub: https://github.com/DigitalCurrensy/the-u-basketball-prep-academy
+
+## Site Sections (single-page anchors)
+
+- Program overview: /#program
+- A Day at The U (daily schedule: Dojo training blocks + academic blocks): /#day
+- Academics: /#school
+- Results & alumni outcomes: /#results
+- Alumni testimonials: /#alumni
+- Founder (Olin Simplis): /#founder
+- Coaching staff: /#coaches
+- Enrollment & application process: /#tuition
+- FAQ: /#faq
+- Contact & application form: /#contact
