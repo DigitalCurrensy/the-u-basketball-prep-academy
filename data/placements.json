@@ -1,0 +1,19 @@
+{
+  "dataset": "The U Basketball Prep Academy — Alumni Placements",
+  "version": "2026-08-05",
+  "publisher": {
+    "name": "The U Basketball Prep Academy",
+    "url": "https://www.theubasketballprepacademy.com/"
+  },
+  "license": "All rights reserved — cite with attribution to The U Basketball Prep Academy",
+  "source": "https://www.theubasketballprepacademy.com/#alumni",
+  "placements": [
+    { "athlete": "Will Conroy Jr.", "high_school": "Village Christian", "note": "Top Freshman in the Country" },
+    { "athlete": "Luke Sowby", "high_school": "Salesian", "note": "All-CIF as a Freshman" },
+    { "athlete": "Alfred \"Deebo\" Parker", "high_school": "Taft High", "note": "Starting Varsity" },
+    { "athlete": "Dominik Karapetian", "high_school": "Brentwood", "note": "Playing Varsity" },
+    { "athlete": "Noah Austin", "high_school": "Fairfax", "note": "" },
+    { "athlete": "Bryce Bible", "high_school": "St. John Bosco", "note": "" },
+    { "athlete": "Jeremy Robinson", "high_school": "Servite", "note": "" }
+  ]
+}
